@@ -1,2 +1,7 @@
 # Calculo-de-IMC-Python
-Se calculara el IMC de personas
+Se calculara el  Indice de Masa Corporal (IMC) de personas
+Al inicializar se piden los datos  de la persona.
+Como su edad,peso y estatura.
+luego se hace una funcion que permite sacar su imc de su edad pero y estatura.
+Al final se muestran los resultados obtenidos reflejando su nombre,edad su peso y estarura, dando una clasificacion de que grado se en cuentra su imc.
+
